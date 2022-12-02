@@ -165,7 +165,6 @@
  .u-section-1 .u-line-2 {
    width: 236px;
    transform-origin: right center 0px;
-   margin: -2080px auto 60px;
  }
 
  @media (min-width: 370px) {
@@ -187,7 +186,7 @@
   .u-section-1 .u-line-2 {
     width: 236px;
     transform-origin: right center 0px;
-    margin: -1845px auto 60px;
+    margin: -1810px auto 60px;
   }
 }
 
@@ -195,7 +194,6 @@
   .u-section-1 .u-line-2 {
     width: 236px;
     transform-origin: right center 0px;
-    margin: -1844px auto 60px;
   }
 }
 
