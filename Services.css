@@ -1,4 +1,4 @@
-html, body {
+html {
   width: 100%;
   height: 100%;
   margin: 0;
@@ -155,7 +155,7 @@ html, body {
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
   margin: 50px auto;
-  top: 50px;
+  top: 20px;
 }
 
 .u-section-2 .u-text-9 {
@@ -886,6 +886,18 @@ html, body {
   font-weight: normal;
 }
 
+.novo h1 {
+  font-size: 50px;
+  text-align: center;
+  font-weight: 600;
+}
+
+.novo p {
+  font-size: 25px;
+  font-weight: 500;
+  text-align: center;
+}
+
 .u-section-9 .u-line-1 {
   width: 912px;
   height: 0;
@@ -933,15 +945,17 @@ html, body {
   .u-section-9 .u-text-1 {
     width: auto;
     margin-top: 20px;
+    margin-left: -50px;
+    margin-right: -50px;
   }
 
   .u-section-9 .u-text-2 {
-    font-size: 20px;
+    font-size: 1.875rem;
     font-weight: 700;
     width: auto;
     margin-top: 20px;
-    margin-left: -10px;
-    margin-right: -10px;
+    margin-left: -50px;
+    margin-right: -50px;
   }
 
   .u-section-9 .u-line-1 {
@@ -986,4 +1000,57 @@ html, body {
     font-size: x-large;
     margin: 0;
   }
+}
+
+@media (min-width: 768px) {
+  .u-section-2 .u-text-6 {
+    text-align: center;
+    margin: auto;
+  }
+    .u-section-2 .u-text-9 {
+      margin: auto;
+      margin-bottom: 100px;
+    }
+    .u-section-2 .u-text-7 {
+      text-align: center;
+      bottom: -200px;
+    }
+    .u-section-2 .u-text-10 {
+    margin:auto;
+    }
+    .u-section-2 .u-text-8 {
+      margin: auto;
+      top: 395px;
+    }
+    .u-section-2 .u-text-11 {
+    margin: auto;
+    margin-top: 100px;
+    }
+}
+
+@media (min-width: 1200px) {
+  .u-section-2 .u-text-6 {
+    text-align: center;
+    margin: auto;
+    bottom: -60px;
+  }
+    .u-section-2 .u-text-9 {
+      margin: auto;
+      margin-bottom: 100px;
+    }
+    .u-section-2 .u-text-7 {
+      text-align: center;
+      bottom: -175px;
+    }
+    .u-section-2 .u-text-10 {
+    margin:auto;
+    }
+    .u-section-2 .u-text-8 {
+      margin: auto;
+      top: 315px;
+    }
+    .u-section-2 .u-text-11 {
+    margin: auto;
+    margin-top: 100px;
+    }
 }
