@@ -1,0 +1,114 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/58d40c8fa13135166131ec0c8c125366df5515b32453c98ae1cea2a0a791488e6170fb3cbd0d105e33f8ae58ac9208f0ecad8372c4bb13346b32e5_1280.jpg");
+  background-position: 50% 26.17%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 412px;
+}
+
+.u-section-1 .u-text-1 {
+  text-shadow: 9px 4px 13px rgba(0,0,0,1);
+  margin: 150px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 393px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 369px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 286px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 354px;
+}
+
+.u-section-2 .u-text-1 {
+  text-transform: uppercase;
+  margin: 113px auto 0;
+}
+
+.u-section-2 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  font-size: 0.9375rem;
+  margin: 20px auto 0 67px;
+  padding: 8px 33px;
+}
+
+.u-section-2 .u-btn-2 {
+  border-style: none;
+  font-weight: 700;
+  font-size: 0.9375rem;
+  margin: -40px 67px 0 auto;
+  padding: 8px 33px;
+}
+
+.u-section-2 .u-btn-3 {
+  border-style: none;
+  font-weight: 700;
+  font-size: 0.9375rem;
+  margin: -40px auto 60px;
+  padding: 8px 33px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-top: 80px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-top: 53px;
+    margin-left: 124px;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-right: 113px;
+  }
+
+  .u-section-2 .u-btn-3 {
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-text-1 {
+    margin-top: 64px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-top: 69px;
+    margin-left: 20px;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-right: 20px;
+  }
+
+  .u-section-2 .u-btn-3 {
+    margin-left: 0;
+    margin-right: 0;
+    padding-right: 17px;
+    padding-left: 16px;
+  }
+}
